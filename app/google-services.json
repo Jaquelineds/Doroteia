@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "262154428257",
+    "firebase_url": "https://doroteia-adcce.firebaseio.com",
+    "project_id": "doroteia-adcce",
+    "storage_bucket": "doroteia-adcce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262154428257:android:108d9ffc587221b1",
+        "android_client_info": {
+          "package_name": "com.example.jaqueline.doroteiaandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262154428257-m2jk1ra28jakqs7912tr52q898j2247j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jaqueline.doroteiaandroid",
+            "certificate_hash": "3B434F9F881F0BF73DD4C8F401048BA40A96F8CD"
+          }
+        },
+        {
+          "client_id": "262154428257-pbl27agcvn3i8aaubuusgiti35dc7qvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPrMA3twZmUOB2PY_2A9P2YK-a_LJiosg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262154428257-pbl27agcvn3i8aaubuusgiti35dc7qvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
