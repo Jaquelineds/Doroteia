@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">Doroteia</string>
+    <string name="action_sign_in_short">Cadastre-se</string>
+    <string name="minimum_password">Senha muito curta, insira no mínimo 6 caracteres!</string>
+    <string name="auth_failed">Falha no login, confira email e senha ou cadastre-se</string>
+    <string name="change_email">Alterar Email</string>
+    <string name="change_password">Alterar Senha</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login"></string>
+    <string name="email">Email</string>
+    <string name="hint_password">Senha</string>
+    <string name="hint_name">Fullname</string>
+    <string name="hint_email">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_link_to_login">Já tem cadastro? Faça o login!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Esqueceu sua senha?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>
