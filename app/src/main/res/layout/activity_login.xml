@@ -18,7 +18,7 @@
             android:layout_height="@dimen/logo"
             android:layout_gravity="center_horizontal"
             android:layout_marginBottom="30dp"
-            android:src="@mipmap/ic_launcher" />
+            android:src="@mipmap/logo" />
 
             <EditText
                 android:id="@+id/email"
@@ -32,7 +32,7 @@
 
             <EditText
                 android:id="@+id/password"
-                android:layout_width="fill_parent"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="10dp"
                 android:hint="@string/hint_password"
@@ -42,12 +42,17 @@
 
         <Button
             android:id="@+id/btn_login"
-            android:layout_width="fill_parent"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dip"
             android:background="@color/colorAccent"
             android:text="@string/btn_login"
             android:textColor="@android:color/black" />
+
+        <com.google.android.gms.common.SignInButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnLoginGoogle"></com.google.android.gms.common.SignInButton>
 
         <Button
             android:id="@+id/btn_reset_password"
